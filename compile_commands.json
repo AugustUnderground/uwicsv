@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-O3",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-fPIC",
+      "-I/opt/cadence/SPECTRE211/695/tools/mmsim/include",
+      "-c",
+      "-o",
+      "Mathilda.o",
+      "Mathilda.c"
+    ],
+    "directory": "/home/uhlmanny/Workspace/uwi-test",
+    "file": "/home/uhlmanny/Workspace/uwi-test/Mathilda.c",
+    "output": "/home/uhlmanny/Workspace/uwi-test/Mathilda.o"
+  }
+]

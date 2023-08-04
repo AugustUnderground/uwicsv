@@ -1,0 +1,6 @@
+.cache
+*.a
+*.o
+*.so
+*.log
+*.raw
